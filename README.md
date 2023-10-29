@@ -5,13 +5,13 @@
 
     I wanted a way to view a lot more of the structure of this file.
 
-    bgcodewalk does this
+    bgcodewalk does this.
 
-### Example 
+### Example
 
 In https://github.com/prusa3d/libbgcode/tree/main/tests/data is an example file mini_cube_b.bgcode
 
-You can now decode the structure of this file,
+You can now decode the structure of this file.
 
 ### Example output
 ```
