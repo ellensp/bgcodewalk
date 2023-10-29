@@ -3,7 +3,7 @@
     Prusa recently published the documentation for a binary encoded gcode file
     here https://github.com/prusa3d/libbgcode/blob/main/doc/specifications.md
 
-    I wanted a way to view alot more of the structure of this file.
+    I wanted a way to view a lot more of the structure of this file.
 
     bgcodewalk does this
 
@@ -11,7 +11,7 @@
 
 In https://github.com/prusa3d/libbgcode/tree/main/tests/data is an example file mini_cube_b.bgcode
 
-You can now decode this file,
+You can now decode the structure of this file,
 
 ### Example output
 ```
