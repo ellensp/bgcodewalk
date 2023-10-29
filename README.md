@@ -9,12 +9,12 @@
 
 ### Example 
 
-In https://github.com/prusa3d/libbgcode/tree/main/tests/data is and example file mini_cube_b.bgcode
+In https://github.com/prusa3d/libbgcode/tree/main/tests/data is an example file mini_cube_b.bgcode
 
 You can now decode this file,
 
 ### Example output
-
+```
 Header:
     Magic Number: GCDE
     version: 1
@@ -186,3 +186,4 @@ Block:
     data: Binary data skipped
     checksum: 3686292011
 end of file
+```
